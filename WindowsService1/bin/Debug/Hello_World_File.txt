@@ -1,0 +1,1 @@
+Hi, you've wrote this message from windows service!!

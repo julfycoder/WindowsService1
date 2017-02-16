@@ -1,0 +1,6 @@
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Windows.old.001\Users\Bogdan\Documents\Visual Studio 2013\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
